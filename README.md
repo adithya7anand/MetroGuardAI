@@ -90,4 +90,7 @@ VIDEO_STREAM_URL=video_2.avi
 - Multi-camera coordination for full metro coverage
 - ML-based violence classification using sequence modeling (e.g., LSTM)
 
----
+Authors & Contributors
+Adithya Anand
+Mitul Chitkara
+Josh Ethan N
